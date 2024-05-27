@@ -1,6 +1,6 @@
 # Angular V17 Template · ![GitHub License](https://img.shields.io/github/license/GabrielToth/Angular-V17-Template?color=blue) ![Static Badge](https://img.shields.io/badge/-18.10.0-g?style=&logo=node.js&logoColor=white) ![Static Badge](https://img.shields.io/badge/PRs-welcome-g)
 
-The Angular V17 Template is an advanced and comprehensive tool for efficiently bootstrapping Angular projects. Built for the latest version of Angular, this template offers a well-organized directory structure, ready for scalable development. Additionally, it features an integrated system to handle error pages and site maintenance states, providing a robust development experience and easing the creation of modern web applications. With clear requirements and simple installation, the Angular V17 Template is the ideal choice for developers seeking a solid and flexible foundation for their Angular projects.
+The Angular V18 Template is an advanced and comprehensive tool for efficiently bootstrapping Angular projects. Built for the latest version of Angular, this template offers a well-organized directory structure, ready for scalable development. Additionally, it features an integrated system to handle error pages and site maintenance states, providing a robust development experience and easing the creation of modern web applications. With clear requirements and simple installation, the Angular V18 Template is the ideal choice for developers seeking a solid and flexible foundation for their Angular projects.
 
 ## Prerequisites
 
@@ -30,11 +30,11 @@ npm install -g @angular/cli
 1. Open Git Bash in the directory where you want to clone the repository.
 2. Enter the command `git clone` followed by the URL you copied:
     ```
-    git clone https://github.com/GabrielToth/Angular-V17-Template
+    git clone https://github.com/felipealbuquerq/angular-v18
     ```
 3. Use the `cd` command to enter the directory of the cloned repository:
     ```
-    cd Angular-V17-Template
+    cd angular-v18
     ```
 
 ## Step 3 - Install all packages
