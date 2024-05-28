@@ -44,7 +44,7 @@
         "@angular/compiler-cli": "^18.0.0",
         "@storybook/addon-essentials": "^7.5.3",
         "@storybook/addon-interactions": "^7.5.3",
-        "@storybook/addon-links": "^7.5.3",
+        "@storybook/addon-links": "^8.1.4",
         "@storybook/angular": "^7.5.3",
         "@storybook/blocks": "^7.5.3",
         "@storybook/testing-library": "^0.2.2",
