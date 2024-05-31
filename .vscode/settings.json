@@ -7,7 +7,7 @@
         "editor.formatOnSave": true
     },
     "[typescript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.defaultFormatter": "vscode.typescript-language-features",
         "editor.codeActionsOnSave": {
             "source.fixAll.eslint": "explicit"
         },
@@ -33,9 +33,7 @@
     "typescript.format.semicolons": "remove",
     "vs-code-prettier-eslint.prettierLast": true,
     "cSpell.language": "en,pt,pt_BR",
-    "cSpell.words": [
-        "Parens"
-    ],
+    "cSpell.words": ["Parens"],
     "[css][html][scss][typescript]": {
         "editor.codeActionsOnSave": {
             "source.fixAll.eslint": "explicit"
