@@ -27,7 +27,7 @@
         "@angular/platform-browser-dynamic": "^18.0.0",
         "@angular/platform-server": "^18.0.0",
         "@angular/router": "^18.0.0",
-        "@angular/ssr": "^18.0.1",
+        "@angular/ssr": "^18.0.3",
         "abab": "^2.0.6",
         "domexception": "^4.0.0",
         "glob": "^10.4.1",
